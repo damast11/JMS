@@ -1,0 +1,1 @@
+SummaryInfo(order=Order(user=User(name=Im), orderNumber=, type=LIQUID, count=5), status=COMPLETED)SummaryInfo(order=Order(user=User(name=mother), orderNumber=123, type=COUNTABLE, count=1000), status=REJECTED)
